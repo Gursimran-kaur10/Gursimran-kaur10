@@ -47,7 +47,7 @@
 </td>
 
 <td width="40%" align="center">
-<img src="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB" width="300">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU4c2lpdjk5NHp0YjRjZHUzbGk1bnRsMXk4eXEyMDhyY3BkbmFqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="300">
 </td>
 </tr>
 </table>
