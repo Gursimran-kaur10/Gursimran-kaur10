@@ -47,7 +47,7 @@
 </td>
 
 <td width="40%" align="center">
-<img src="https://tenor.com/view/coding-girl-gif-2332171326726785246?utm_source=chatgpt.com" width="300">
+<img src="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB" width="300">
 </td>
 </tr>
 </table>
